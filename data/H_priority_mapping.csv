@@ -1,0 +1,74 @@
+PID,POI,Shows and Concerts,Scenic,Local Experiences,Religious,History and Culture,Museum,Food and Drinks,Adventure,Shopping
+POI1,Golconda Fort,0,2,3,0,5,4,0,1,0
+POI2,Charminar,0,2,3,0,5,4,1,0,0
+POI3,Qutub Shahi Tombs,0,0,0,0,5,4,0,0,0
+POI4,Mecca Masjid,0,2,3,0,5,0,0,0,0
+POI5,Salar Jung Museum,0,3,0,0,4,5,0,0,0
+POI6,Sudha Cars Museum,0,3,2,0,4,5,1,0,0
+POI7,Lord Shiva Temple Hyderabad,0,3,4,5,0,0,0,0,0
+POI8,Chowmahalla Palace,0,4,3,0,5,0,0,2,0
+POI9,Taramati Baradari,0,0,3,0,5,4,1,0,0
+POI10,Hussain Sagar Lake,0,5,0,0,4,0,0,0,0
+POI11,Ramoji Film City,0,5,0,1,0,0,0,3,0
+POI12,Chowmahalla Palace,0,5,0,2,0,0,0,0,0
+POI13,Picasso Art Gallery,0,3,0,0,4,5,0,0,0
+POI14,Venkateswara Swamy Temple,0,0,4,5,0,0,0,0,0
+POI15,Sun Temple Hyderabad,0,0,4,5,0,0,0,0,0
+POI16,Narasimha Swamy Temple,0,0,4,5,0,0,0,0,0
+POI17,Gonalda,0,0,3,5,4,0,0,0,0
+POI18,Qutub Shahi Tombs,0,5,0,0,2,0,0,0,0
+POI19,Nehru Zoo Park,0,5,0,0,4,0,1,0,0
+POI20,Laad Bazaar,0,5,0,0,0,0,1,4,0
+POI21,Purani Haveli,0,5,0,1,0,0,0,4,0
+POI22,Toli Masjid,0,2,4,0,5,0,0,0,0
+POI23,Paigah Tombs,0,0,3,1,5,0,0,0,0
+POI24,NTR Gardens,0,5,0,0,0,0,0,4,0
+POI25,Nizam palaces tour Royal history of Hyderabad,5,2,4,0,0,0,0,0,0
+POI26,Hyderabad Classic Half Day Tour,5,0,0,0,3,0,0,0,0
+POI27,Taj Falaknuma Palace,0,5,0,0,0,0,0,4,0
+POI28,Buddha Temple in Hyderabad,0,0,4,5,0,0,0,0,0
+POI29,Shyam Temple Hyderabad,0,3,0,5,4,0,0,0,0
+POI30,Shri Jagannath Temple,0,5,0,0,0,0,1,0,2
+POI31,Nizam Museum,0,0,0,0,2,5,3,0,0
+POI32,Wonderla Amusement Park,0,4,0,0,0,0,0,5,0
+POI33,Begum Bazaar,0,3,0,0,0,0,4,0,5
+POI34,  Nizamia Observatory,0,0,3,0,0,5,0,0,0
+POI35,Aalankritha Art Gallery,0,0,3,0,0,5,0,0,0
+POI36,Perfume Market,0,4,5,0,0,0,3,0,0
+POI37,Jalavihar Water Park,0,4,0,1,0,0,0,5,0
+POI38,Biggest Baobab,0,5,0,0,4,0,0,0,0
+POI39,Mirchi ka Salan,0,0,0,1,0,0,5,0,4
+POI40,Jauzi Halwa ,0,0,0,1,0,0,5,0,4
+POI41,Shahran Market,0,0,0,0,0,0,0,0,5
+POI42,Dattatreya Temple,0,4,0,5,0,0,0,3,0
+POI43,Kalakriti Art Gallery,0,0,3,0,0,5,0,0,0
+POI44,Snow World,0,0,0,0,0,0,0,5,0
+POI45,Golconda Fort Sound & Light Show - Hyderabad,5,2,4,0,0,0,0,0,0
+POI46,Karmanghat Hanuman Temple,0,4,0,5,0,0,0,1,0
+POI47,Escape Water Park,0,0,0,0,0,0,0,5,4
+POI48,Spanish Mosque,0,4,0,0,5,0,0,0,0
+POI49,Hyderabad Nampally Exhibition,0,1,5,0,4,0,0,2,0
+POI50,Taramati Baradari,0,5,0,0,0,0,0,4,0
+POI51,AHMAD LAKE,0,5,0,0,0,0,0,4,0
+POI52,B.M. Birla Planetarium,0,0,3,0,0,5,0,0,0
+POI53,Sri Gnana Saraswati Temple,0,0,0,5,0,0,0,0,0
+POI54,The Yacht Club,0,3,0,0,0,0,0,5,0
+POI55,Shri Adinath Jain Temple,0,0,0,5,0,0,0,0,0
+POI56,Peddamma Gudi Temple,0,0,0,5,0,0,0,0,0
+POI57,Ashtalakshmi Temple,0,4,0,5,0,0,0,0,0
+POI58,Iskon Temple Hyderabad,0,1,0,5,0,0,0,0,0
+POI59,Char Minar Bazaar,0,5,0,1,0,0,0,2,0
+POI60,Toli Masjid,0,0,0,5,0,0,0,0,1
+POI61,Begum Bazaar,0,5,0,3,0,0,0,0,0
+POI62,Keesaragutta Temple,0,1,0,5,0,0,0,0,0
+POI63,Birla Science Center,0,0,2,1,0,5,0,0,0
+POI64,KBR National Park,0,5,0,0,0,0,0,0,3
+POI65,Moazzam Jahi Market,4,0,0,0,0,0,0,0,5
+POI66,Abids Street,3,0,0,0,0,0,0,0,5
+POI67,Shilparaman,0,5,0,2,0,0,0,0,0
+POI68,Statue of Equality,0,0,5,0,0,0,0,0,0
+POI69,MIDNIGHT AMUSEMENT PARK,0,0,0,0,0,0,0,5,0
+POI70,Jagannath Temple,2,0,0,5,0,0,0,0,0
+POI71,Pot Bazaar,0,0,0,0,0,0,4,0,5
+POI72,Ananthagiri Trekking,0,4,0,3,0,0,0,5,0
+POI73,Wildwoods Adventure Club,0,4,1,0,0,0,0,5,0
